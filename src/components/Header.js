@@ -7,7 +7,7 @@ const Header = () => {
       style={{ backgroundColor: "#e3f2fd" }}
     >
       <div className="nav-item">
-        <span className="navbar-brand h1">Number Conversions</span>
+        <span className="navbar-brand h1">Number Converter</span>
       </div>
     </nav>
   );
