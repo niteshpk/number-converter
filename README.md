@@ -8,6 +8,14 @@ This React app can perform the following conversions:
 - Binary to Octal Number System
 - Binary to Hexadecimal Number System
 - Hexadecimal to Binary Number System
+- Decimal to Octal Number System
+- Octal to Decimal Number System
+- Decimal to Hexadecimal Number System
+- Hexadecimal to Decimal Number System
+- Binary Coded Decimal (BCD) to Decimal Converter
+- Decimal to Binary Coded Decimal (BCD) Converter
+- ASCII to Binary Converter
+- Binary to ASCII Converter
 
 ## Live Demo
 
@@ -96,6 +104,70 @@ To convert a hexadecimal number to a binary number:
 2. Click the "Convert" button.
 3. The binary number will be displayed below the input field.
 
+### Decimal to Octal Conversion
+
+To convert a decimal number to an octal number:
+
+1. Enter a decimal number in the input field.
+2. Click the "Convert" button.
+3. The octal number will be displayed below the input field.
+
+### Octal to Decimal Conversion
+
+To convert an octal number to a decimal number:
+
+1. Enter an octal number in the input field.
+2. Click the "Convert" button.
+3. The decimal number will be displayed below the input field.
+
+### Decimal to Hexadecimal Conversion
+
+To convert a decimal number to a hexadecimal number:
+
+1. Enter a decimal number in the input field.
+2. Click the "Convert" button.
+3. The hexadecimal number will be displayed below the input field.
+
+### Hexadecimal to Decimal Conversion
+
+To convert a hexadecimal number to a decimal number:
+
+1. Enter a hexadecimal number in the input field.
+2. Click the "Convert" button.
+3. The decimal number will be displayed below the input field.
+
+### Binary Coded Decimal (BCD) to Decimal Conversion
+
+To convert a Binary Coded Decimal (BCD) number to a decimal number:
+
+1. Enter a BCD number in the input field.
+2. Click the "Convert" button.
+3. The decimal number will be displayed below the input field.
+
+### Decimal to Binary Coded Decimal (BCD) Conversion
+
+To convert a decimal number to a Binary Coded Decimal (BCD) number:
+
+1. Enter a decimal number in the input field.
+2. Click the "Convert" button.
+3. The BCD number will be displayed below the input field.
+
+### ASCII to Binary Conversion
+
+To convert an ASCII text to a binary number:
+
+1. Enter an ASCII text in the input field.
+2. Click the "Convert" button.
+3. The binary number will be displayed below the input field.
+
+### Binary to ASCII Conversion
+
+To convert a binary number to an ASCII text:
+
+1. Enter a binary number in the input field.
+2. Click the "Convert" button.
+3. The ASCII text will be displayed below the input field.
+
 ## Built With
 
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces
@@ -107,4 +179,4 @@ To convert a hexadecimal number to a binary number:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
